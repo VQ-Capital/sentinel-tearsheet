@@ -62,7 +62,7 @@ async fn main() -> Result<()> {
         env!("CARGO_PKG_NAME"),
         env!("CARGO_PKG_VERSION")
     );
-        
+
     let args = Args::parse();
 
     info!("🦅 VQ-Capital Tearsheet Generator başlatılıyor...");
