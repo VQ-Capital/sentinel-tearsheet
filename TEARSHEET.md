@@ -1,20 +1,20 @@
 
 # 🦅 VQ-CAPITAL QUANTITATIVE TEARSHEET
-**Date Generated:** `Sat, 2 May 2026 15:35:13 +0000`
+**Date Generated:** `Tue, 5 May 2026 13:08:22 +0000`
 
 ## 1. 📊 EXECUTIVE SUMMARY
 | Metric | Value |
 |---|---|
-| **Total Trades Processed** | `63` |
-| **Win Rate** | `15.87%` |
-| **Net PnL** | `$-3.0683` |
-| **Profit Factor** | `0.19` |
+| **Total Trades Processed** | `994` |
+| **Win Rate** | `13.48%` |
+| **Net PnL** | `$-57.7137` |
+| **Profit Factor** | `0.14` |
 
 ## 2. 📉 RISK & RETURN METRICS
 | Metric | Value | Status |
 |---|---|---|
-| **Max Drawdown** | `82.24%` | 🔴 DANGER |
-| **Sharpe Ratio** | `-0.59` | 🔴 NOISE |
+| **Max Drawdown** | `5.77%` | 🟢 SAFE |
+| **Sharpe Ratio** | `-0.67` | 🔴 NOISE |
 
 ## 3. ⚡ EXECUTION & SLA METRICS
 | Metric | Value | Note |
