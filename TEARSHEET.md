@@ -1,6 +1,6 @@
 
 # 🦅 VQ-CAPITAL QUANTITATIVE TEARSHEET
-**Date Generated:** `Wed, 20 May 2026 21:27:26 +0000`
+**Date Generated:** `Fri, 22 May 2026 16:01:45 +0000`
 
 ## 1. 📊 EXECUTIVE SUMMARY
 | Metric | Value |
