@@ -1,6 +1,6 @@
 
 # 🦅 VQ-CAPITAL QUANTITATIVE TEARSHEET
-**Date Generated:** `Sun, 31 May 2026 20:04:34 +0000`
+**Date Generated:** `Tue, 2 Jun 2026 21:29:48 +0000`
 
 ## 1. 📊 EXECUTIVE SUMMARY
 | Metric | Value |
@@ -13,7 +13,7 @@
 ## 2. 📉 RISK & RETURN METRICS
 | Metric | Value | Status |
 |---|---|---|
-| **Max Drawdown** | `0.00%` | 🟢 SAFE |
+| **Max Drawdown** | `0.04%` | 🟢 SAFE |
 | **Sharpe Ratio** | `0.00` | 🔴 NOISE |
 
 ## 3. ⚡ EXECUTION & SLA METRICS
